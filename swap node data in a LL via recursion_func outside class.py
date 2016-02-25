@@ -1,3 +1,5 @@
+#swap node data 
+
 class Node:
     def __init__(self, value):
         self.datum = value  											
