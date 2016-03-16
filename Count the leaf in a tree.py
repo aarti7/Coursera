@@ -1,4 +1,4 @@
-# Count the leaf in a tree
+# Count the  leaf in a tree
 #http://www.codeskulptor.org/#user40_mF7DLeKJ5SKT1Pf.py
 class Node:
     def __init__(self,key):
